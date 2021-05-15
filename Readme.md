@@ -15,3 +15,6 @@
 ### R2 Score
 - R-squared is the fraction by which the variance of the errors is less than the variance of the dependent variable.  (The latter number would be the error variance for a constant-only model, which merely predicts that every observation will equal the sample mean.)
 [*Refer here*](https://people.duke.edu/~rnau/rsquared.htm)
+
+### DecissionTreeClassifier
+- Classification of shows data and visualization of decission tree.
